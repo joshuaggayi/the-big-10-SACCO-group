@@ -1,0 +1,19 @@
+.links{
+    text-align: center;
+
+}
+.logo img{
+    width: 300px;
+    height: auto;
+}
+body{
+    text-align: center;
+}
+.info button{
+    width: 150px;
+    height: 50px;
+    -webkit-text-fill-color: white;
+    background-color: rgb(73, 73, 243);
+    font-size: large;
+
+}
